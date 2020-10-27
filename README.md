@@ -1,7 +1,13 @@
 # vite-template-ts
 Try Vite with TypeScript.
 
-## Init
+## Quick Start
+```
+git clone https://github.com/NotCoderJack/vite-template-ts.git
+// or
+git clone git@github.com:NotCoderJack/vite-template-ts.git
+```
+## Init Script
 ```
 yarn create vite-app vite-template-ts --template vue-ts
 ```
@@ -12,7 +18,7 @@ yarn create vite-app vite-template-ts --template vue-ts
 ### babel-plugin-import/ts-import-plugin
 todo: 按需加载
 
-### flexible for mobile
+## flexible for mobile
 todo
 
 ## Router
