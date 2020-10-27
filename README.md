@@ -16,7 +16,7 @@ yarn create vite-app vite-template-ts --template vue-ts
 [quickstart](https://vant-contrib.gitee.io/vant/next/#/zh-CN/quickstart)
 
 ### babel-plugin-import/ts-import-plugin
-todo: 按需加载
+todo
 
 ## flexible for mobile
 todo
@@ -25,4 +25,4 @@ todo
 [vue-router@4.0](https://next.router.vuejs.org/guide/#html)
 
 ## vite.config.ts
-自定义配置
+override vite config
